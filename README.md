@@ -34,7 +34,7 @@ KursovMagistr/Web/
 
 * Unity (Unity3D)
 * C#
-* WebGL (для веб-сборки)
+* WebGL
 
 ## Запуск проекта
 
