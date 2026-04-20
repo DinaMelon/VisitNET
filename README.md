@@ -1,4 +1,5 @@
 # VisitNET
+Опробовать - http://testdeynego.ru.swtest.ru/
 # Экскурсия по НЭТ (Новый Экспериментальный Театр)
 <img width="956" height="594" alt="image" src="https://github.com/user-attachments/assets/14535ba1-b092-4b31-9a18-336df618bad2" />
 
