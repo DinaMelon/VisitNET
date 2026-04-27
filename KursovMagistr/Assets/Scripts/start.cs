@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class start : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    //загружаем сцену с экскурсией
     public void StartGame()
     {
         SceneManager.LoadScene("SampleScene");
