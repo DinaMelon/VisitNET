@@ -30,11 +30,11 @@ public class InterestPoint : MonoBehaviour
         
     }
 //спрытать информацию
-    public void HideInfo()
-    {
-        if (InfoUI.instance != null)
-        {
-            InfoUI.instance.HideInfo();
-        }
-    }
+    // public void HideInfo()
+    // {
+    //     if (InfoUI.instance != null)
+    //     {
+    //         InfoUI.instance.HideInfo();
+    //     }
+    // }
 }
